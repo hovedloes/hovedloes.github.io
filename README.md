@@ -2,6 +2,6 @@
 
 # To do:
 
-[ ] Setup Gastby.js
-[ ] Setup Strapi.js
-[ ] Make hero-component
+- Setup Gastby.js
+- Setup Strapi.js
+- Make hero-component
